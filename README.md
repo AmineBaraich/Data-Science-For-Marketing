@@ -9,19 +9,19 @@ the age of the head of the household, the number of people in the household, the
 ## Parts of the Project
 ### Part 1 
 
-1. ** Introduction:
-   ** Provides an overview of the sampling process, data adjustment (redressing), and extrapolation. 
-   ** Explains the importance of these steps and justifies the choice of sociodemographic criteria.
+1.  Introduction:
+    Provides an overview of the sampling process, data adjustment (redressing), and extrapolation. 
+    Explains the importance of these steps and justifies the choice of sociodemographic criteria.
 
-2. ** Extrapolation of the Survey:** Utilizes sociodemographic criteria (CSPCHEF, AGECHEF, REGION, NBPERS, TU) to estimate survey results for the entire population.
+2. Extrapolation of the Survey: Utilizes sociodemographic criteria (CSPCHEF, AGECHEF, REGION, NBPERS, TU) to estimate survey results for the entire population.
 
-3. ** Survey Data Processing:** Conducts univariate and bivariate analyses through cross-tabulation and flat tables.
+3. Survey Data Processing:** Conducts univariate and bivariate analyses through cross-tabulation and flat tables.
 
-4. ** Significance Testing on Modalities:
-   ** Measures the association between reported responses and sociodemographic criteria. 
-   ** Characterizes the results using univariate analysis.
+4. Significance Testing on Modalities:
+   Measures the association between reported responses and sociodemographic criteria. 
+   Characterizes the results using univariate analysis.
 
 ### Part 2 
 
-5. ** Exploring Multivariate Characteristics of Response Modalities:
-   ** Utilizes the CHAID algorithm to explore multivariate characteristics of response modalities.
+5. Exploring Multivariate Characteristics of Response Modalities:
+   Utilizes the CHAID algorithm to explore multivariate characteristics of response modalities.
