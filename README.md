@@ -15,7 +15,7 @@ the age of the head of the household, the number of people in the household, the
 
 2. Extrapolation of the Survey: Utilizes sociodemographic criteria (CSPCHEF, AGECHEF, REGION, NBPERS, TU) to estimate survey results for the entire population.
 
-3. Survey Data Processing:** Conducts univariate and bivariate analyses through cross-tabulation and flat tables.
+3. Survey Data Processing: Conducts univariate and bivariate analyses through cross-tabulation and flat tables.
 
 4. Significance Testing on Modalities:
    Measures the association between reported responses and sociodemographic criteria. 
